@@ -8,7 +8,7 @@
 /**
  * Product implementation
  */
-
+//Sultan estuvo aqui
 SalesModel::Product::Product(const Product^& copier)
 {
     Id = copier->Id;
